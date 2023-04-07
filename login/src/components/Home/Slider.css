@@ -1,0 +1,15 @@
+.carousel-inner {
+    padding: 3rem;
+}
+.carousel-inner .carousel-item{
+    border: solid white;
+    
+    
+}
+.carousel-inner .carousel-item .carousel-caption{
+    color: white;
+    background-color: rgb(38, 37, 37);
+    border: solid white;
+    
+    
+}
